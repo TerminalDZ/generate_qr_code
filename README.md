@@ -1,1 +1,4 @@
-"# generate_qr_code" 
+# generate_qr_code
+
+### Require :  (qrcode | tkinter | PIL)
+
